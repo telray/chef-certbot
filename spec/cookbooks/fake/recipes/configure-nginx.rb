@@ -1,2 +1,2 @@
 include_recipe 'certbot::configure'
-include_recipe 'nginx'
+include_recipe 'chef_nginx'
